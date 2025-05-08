@@ -51,7 +51,7 @@ public class Cajero {
     }
 
     /**
-     * Retorna el saldo disponible en la cuenta simulada.
+     * Retorna el saldo disponible en la cuenta Simulada.
      * @return Saldo actual.
      */
     public static int obtenerSaldo() {
